@@ -1,2 +1,4 @@
 
 ![](./speedOfLight.gif)
+
+![](./speedOfLight.gif)
